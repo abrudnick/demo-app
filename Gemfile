@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem ruby '1.9.3'
+ruby '1.9.3'
 
 group :development do
   gem 'sqlite3', '1.3.8'
